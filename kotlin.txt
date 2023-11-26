@@ -1,0 +1,5 @@
+kotlin archivo
+
+name: 		Joan Gomezjurado
+username: 	joanda15
+email:		jdgs.1505@gmail.com
